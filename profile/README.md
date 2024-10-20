@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://www.lraminformatica.com.br/assets/images/photo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">   
   A <strong>LRAM Informática</strong> esta preparada para conversar e ouvir seu problema <br>
